@@ -18,27 +18,27 @@ A full-stack web application to manage inventory, sales, suppliers, and financia
 
 ### 1. Dashboard Overview  
 Displays today’s sales and purchase summary. Product-wise daily report is also visible.  
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.webp)
 
 ### 2. Profile Settings  
 Click the top-right settings icon to update user details, email, password, and preferences.  
-![Profile Settings](screenshots/profile_settings.png)
+![Profile Settings](screenshots/profile_settings.png.webp)
 
 ### 3. Application Settings  
 Change application title, contact info, favicon, logo, language, and UI alignment.  
-![Application Settings](screenshots/app_settings.png)
+![Application Settings](screenshots/app_settings.png.webp)
 
 ### 4. Language Settings  
 Add or manage native languages for the platform from `Language > Add Language`.  
-![Language Settings](screenshots/language_settings.png)
+![Language Settings](screenshots/language_settings.png.webp)
 
 ### 5. Add Store Module  
 First, create a store from `Store > Add Store`. Enables other modules like supplier and inventory.  
-![Add Store](screenshots/add_store.png)
+![Add Store](screenshots/add_store.png.webp)
 
 ### 6. Add Supplier Module  
 Register suppliers from `Supplier > Add`. Attach to specific stores with detailed info.  
-![Add Supplier](screenshots/add_supplier.png)
+![Add Supplier](screenshots/add_supplier.png.webp)
 
 > ✅ And many more modules including product returns, barcode scanning, stock movement, and financial analytics!
 
